@@ -1,7 +1,7 @@
 # Site
 title:              Funct1on_X
-bio:                'Welcome!'
-description:        "Good moring,Good Afternoon,Good Night"
+bio:                'Good moring,Good Afternoon,Good Night'
+description:        "Welcome"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
