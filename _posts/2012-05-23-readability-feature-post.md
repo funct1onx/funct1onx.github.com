@@ -19,4 +19,16 @@ comments: false
 일단 풍차와 전기 부분을 시작하도록 하겠습니다
 풍차와 전기에서는 변수와 연산이많이 쓰이고 방송도 쓰입니다
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="B4cmPYj"><a href="https://imgur.com/B4cmPYj">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[풍차 날개 코드](https://imgur.com/B4cmPYj)
+
+^ 풍차 날개 코드
+
+풍차 날개 코드를 보시면 일단 변수 2개를 다 0으로 초기화 를 시키고 
+**'재시작'** 방송을 보냅니다. 그리고 그 방송을 받으면 ***'전기'*** 라는 변수가
+250까지 반복을 합니다 그리고 전기가 250 이다달으면 그즉시회전을 멈추고 전기생산을 멈춥니다
+
+[전구 코드](https://imgur.com/afEgw7v)
+
+^전구가 켜지는 코드
+
+
