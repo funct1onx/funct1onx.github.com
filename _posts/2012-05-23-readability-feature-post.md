@@ -11,7 +11,7 @@ comments: false
 ---
 
 이번에 설명한 것은 스크래치와 파이썬 입니다 
-**스크래치** 에서는 <a href="https://scratch.mit.edu/projects/308755891/">풍차와 전기</a> 를 설명할것이고
+**스크래치** 에서는 <a href="https://scratch.mit.edu/projects/308755891/" target="_blank">풍차와 전기</a> 를 설명할것이고
 파이썬 에서는 **짝수 합산**을 설명을 하겠습니다
 
 ---
