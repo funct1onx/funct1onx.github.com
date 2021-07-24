@@ -29,9 +29,11 @@ comments: false
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/SBgKaWL" data-context="false" ><a href="//imgur.com/a/SBgKaWL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+^전구가 켜지는 코드
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/jFni9aA" data-context="false" ><a href="//imgur.com/a/jFni9aA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-^전구가 켜지는 코드
+^스위치 코드
 
 일단 시작을했을때에는 모양을 기본으로 바꾸고
 
