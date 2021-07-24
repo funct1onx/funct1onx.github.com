@@ -29,7 +29,7 @@ https://imgur.com/B4cmPYj
 **'재시작'** 방송을 보냅니다. 그리고 그 방송을 받으면 ***'전기'*** 라는 변수가
 250까지 반복을 합니다 그리고 전기가 250 이다달으면 그즉시회전을 멈추고 전기생산을 멈춥니다
 
-[전구 코드](https://imgur.com/afEgw7v)
+<blockquote class="imgur-embed-pub" lang="en" data-id="undefined"><a href="https://imgur.com/undefined">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ^전구가 켜지는 코드
 
