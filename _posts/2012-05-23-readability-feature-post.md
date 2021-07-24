@@ -20,4 +20,4 @@ comments: false
 풍차와 전기에서는 변수와 연산이많이 쓰이고 방송도 쓰입니다
 
 
-<img src="assets/img/풍차.PNG">
+<img src="assets/img/ping.PNG">
