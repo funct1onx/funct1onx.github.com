@@ -18,7 +18,8 @@ comments: false
 
 일단 풍차와 전기 부분을 시작하도록 하겠습니다
 풍차와 전기에서는 변수와 연산이많이 쓰이고 방송도 쓰입니다
-[img]https://i.imgur.com/afEgw7v.png[/img]
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Mqni0vb" data-context="false" ><a href="//imgur.com/a/Mqni0vb"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ^ 풍차 날개 코드
 
