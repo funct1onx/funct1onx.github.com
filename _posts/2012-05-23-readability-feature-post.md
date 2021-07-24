@@ -19,5 +19,4 @@ comments: false
 일단 풍차와 전기 부분을 시작하도록 하겠습니다
 풍차와 전기에서는 변수와 연산이많이 쓰이고 방송도 쓰입니다
 
-
-![ex_ping](.assets/img/ping.PNG)
+![](https://i.esdrop.com/d/ZklKfna5T3.jpg)
